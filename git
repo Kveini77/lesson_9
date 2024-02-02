@@ -1,0 +1,11 @@
+git init
+git remote add origin https://github.com/Kveini77/lesson_9.git
+
+
+
+git add ./namefile
+git commit -m 'lesson_9'
+git push origin main/master
+
+git config --global user.email  "you@example.com"
+git config --global user.name  "username"
